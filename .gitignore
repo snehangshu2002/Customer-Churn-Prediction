@@ -1,5 +1,0 @@
-model.h5
-.venv
-xgboost_churn_model.pkl
-random_forest_churn_model.pkl
-Logistic_churn_model.pkl
