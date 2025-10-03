@@ -1,3 +1,7 @@
+xgboost_churn_model.pkl
+random_forest_churn_model.pkl
+Logistic_churn_model.pkl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
