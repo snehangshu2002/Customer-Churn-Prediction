@@ -78,4 +78,4 @@ Werkzeug
 wrapt
 xgboost
 streamlit
-plotly
+lightgbm
